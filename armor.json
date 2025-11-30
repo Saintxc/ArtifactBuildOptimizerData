@@ -1,0 +1,30 @@
+{
+  "armor": [
+    {
+      "name": "Diamond Exoskeleton",
+      "slots": 5,
+      "max_lead_containers": 4,
+      "resistances": {
+        "thermal": 39,
+        "electrical": 39,
+        "chemical": 39,
+        "radiation": 80,
+        "psi" : 40,
+        "physical": 80
+      }
+    },
+    {
+      "name": "SSP-100 Discovery",
+      "slots": 5,
+      "max_lead_containers": 3,
+      "resistances": {
+        "thermal": 42,
+        "electrical": 42,
+        "chemical": 42,
+        "radiation": 60,
+        "psi" : 55,
+        "physical": 40
+      }
+    }
+  ]
+}
