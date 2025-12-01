@@ -7,7 +7,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Medium",
+        "radiation_protection": "Medium"
       },
       "image": "artifacts/bubble.png"
     },
