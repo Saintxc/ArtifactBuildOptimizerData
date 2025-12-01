@@ -1,0 +1,106 @@
+{
+  "artifacts":
+  [
+    {
+      "name": "Bubble",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "radiation_protection": "Medium",
+      },
+      "image": "artifacts/bubble.png"
+    },
+    {
+      "name": "Ciliate",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in chemical anomalies.",
+      "stats": {
+        "chemical_protection": "Medium",
+        "radiation": "Medium",
+        "increased_durability": "Medium"
+      },
+      "image": "artifacts/ciliate.png"
+    },
+    {
+      "name": "Crust",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in acid anomalies.",
+      "stats": {
+        "chemical_protection": "Weak",
+        "radiation": "Weak",
+        "increased_durability": "Weak"
+      },
+      "image": "artifacts/crust.png"
+    },
+    {
+      "name": "Crystal Thorn",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "radiation_protection": "Weak"
+      },
+      "image": "artifacts/crystal_thorn.png"
+    },
+    {
+      "name": "Devil's Mushroom",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in acid anomalies.",
+      "stats": {
+        "chemical_protection": "Strong",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/devils_mushroom.png"
+    },
+    {
+      "name": "Horn",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "chemical_protection": "Weak",
+        "radiation": "Weak",
+        "increased_durability": "Weak"
+      },
+      "image": "artifacts/horn.png"
+    },
+    {
+      "name": "Kolobok",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in chemical anomalies.",
+      "stats": {
+        "chemical_protection": "Medium",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/kolobok.png"
+    },
+    {
+      "name": "Liquid Rock",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Legendary",
+      "description": "A legendary artifact found in acid anomalies.",
+      "stats": {
+        "radiation_protection": "Maximum",
+        "chemical_protection": "Maximum",
+        "increased_durability": "Maximum"
+      },
+      "image": "artifacts/liquid_rock.png"
+    },
+    {
+      "name": "Meat Chunk",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "chemical_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/meat_chunk.png"
+    }
+  ]
+}

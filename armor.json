@@ -11,7 +11,8 @@
         "radiation": 80,
         "psi" : 40,
         "physical": 80
-      }
+      },
+      "image": "armor/diamond_exoskeleton.png"
     },
     {
       "name": "SSP-100 Discovery",
@@ -24,7 +25,8 @@
         "radiation": 60,
         "psi" : 55,
         "physical": 40
-      }
+      },
+      "image": "armor/ssp100_discovery.png"
     }
   ]
 }
