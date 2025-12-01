@@ -1,5 +1,6 @@
 {
-  "armor": [
+  "armor":
+  [
     {
       "name": "Diamond Exoskeleton",
       "slots_base": 5,
@@ -19,7 +20,7 @@
     {
       "name": "SSP-100 Discovery",
       "slots_base": 3,
-      "slots_upgraded": 2,
+      "slots_upgrades": 2,
       "slots_total": 5,
       "lead_container_base": 0,
       "lead_container_upgrades": 3,
