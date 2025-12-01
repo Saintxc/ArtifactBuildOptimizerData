@@ -780,6 +780,69 @@
         "radiation": "Weak"
       },
       "image": "artifacts/wretched.png"
+    },
+    {
+      "name": "Weird Ball",
+      "classification": "Altered Item Artifact",
+      "rarity": "Legendary",
+      "description": "One of the legendary 'Altered Items'.",
+      "stats": {},
+      "special_effect": "Reduces bullet damage when standing still. Each hit increases the weight of the ball by 0.2kg up to a maximum of 5kg.",
+      "image": "artifacts/weird_ball.png"
+    },
+    {
+      "name": "Weird Bolt",
+      "classification": "Altered Item Artifact",
+      "rarity": "Legendary",
+      "description": "One of the legendary 'Altered Items'.",
+      "stats": {
+        "thermal_protection": "Maximum",
+        "electrical_protection": "Maximum",
+        "chemical_protection": "Maximum"
+      },
+      "special_effect": "Only works while charged and has to be recharged during an anomaly to provide protection.",
+      "image": "artifacts/weird_bolt.png"
+    },
+    {
+      "name": "Weird Flower",
+      "classification": "Altered Item Artifact",
+      "rarity": "Legendary",
+      "description": "One of the legendary 'Altered Items'.",
+      "stats": {},
+      "special_effect": "If a stalker sleeps with the flower equipped, they are more difficult for enemies and mutants to detect",
+      "image": "artifacts/weird_flower.png"
+    },
+    {
+      "name": "Weird Nut",
+      "classification": "Altered Item Artifact",
+      "rarity": "Legendary",
+      "description": "One of the legendary 'Altered Items'.",
+      "stats": {
+        "bleeding_resistance": "Maximum"
+      },
+      "special_effect": "Regeneration from healing consumables is substantially slower.",
+      "image": "artifacts/weird_nut.png"
+    },
+    {
+      "name": "Weird Pot",
+      "classification": "Altered Item Artifact",
+      "rarity": "Legendary",
+      "description": "One of the legendary 'Altered Items'.",
+      "stats": {},
+      "special_effect": "Significantly reduces hunger but all food and drink consumables are poisonous and cause negative status effects drunk, bleeding, and radiation.",
+      "image": "artifacts/weird_pot.png"
+    },
+    {
+      "name": "Weird Water",
+      "classification": "Altered Item Artifact",
+      "rarity": "Legendary",
+      "description": "One of the legendary 'Altered Items'.",
+      "stats": {
+        "weight_bonus": -40,
+        "radiation_protection": "Weak"
+      },
+      "special_effect": "If the stalker carries over 50kg, the drunk status effect is applied.",
+      "image": "artifacts/weird_water.png"
     }
   ]
 }
