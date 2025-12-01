@@ -101,6 +101,100 @@
         "radiation": "Weak"
       },
       "image": "artifacts/meat_chunk.png"
+    },
+    {
+      "name": "Mica",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "radiation_protection": "Weak"
+      },
+      "image": "artifacts/mica.png"
+    },
+    {
+      "name": "Mold",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "chemical_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/mold.png"
+    },
+    {
+      "name": "Pellicle",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in chemical anomalies.",
+      "stats": {
+        "chemical_protection": "Strong",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/pellicle.png"
+    },
+    {
+      "name": "Skipjack",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in chemical anomalies.",
+      "stats": {
+        "radiation_protection": "Strong"
+      },
+      "image": "artifacts/skipjack.png"
+    },
+    {
+      "name": "Slime",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "radiation_protection": "Weak"
+      },
+      "image": "artifacts/slime.png"
+    },
+    {
+      "name": "Slug",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "radiation_protection": "Weak"
+      },
+      "image": "artifacts/slug.png"
+    },
+    {
+      "name": "Thorn",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in acid anomalies.",
+      "stats": {
+        "radiation_protection": "Weak"
+      },
+      "image": "artifacts/thorn.png"
+    },
+    {
+      "name": "Tourist's Breakfast",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in chemical anomalies.",
+      "stats": {
+        "chemical_protection": "Medium",
+        "radiation": "Medium",
+        "increased_durability": "Medium"
+      },
+      "image": "artifacts/tourists_breakfast.png"
+    },
+    {
+      "name": "Urchin",
+      "classification": "Chemical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in acid anomalies.",
+      "stats": {
+        "radiation_protection": "Meidum"
+      },
+      "image": "artifacts/urchin.png"
     }
   ]
 }
