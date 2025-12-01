@@ -506,6 +506,114 @@
       "image": "armor/recruit_suit.png"
     },
     {
+      "name": "Ruby Exosuit",
+      "slots_base": 5,
+      "slots_upgrades": 0,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 4,
+      "lead_containers_total": 4,
+      "resistances": {
+        "thermal": 26,
+        "electrical": 36,
+        "chemical": 26,
+        "radiation": 80,
+        "psi" : 20,
+        "physical": 75
+      },
+      "image": "armor/ruby_exosuit.png"
+    },
+    {
+      "name": "SEVA Suit",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 23,
+        "electrical": 33,
+        "chemical": 33,
+        "radiation": 60,
+        "psi" : 30,
+        "physical": 40
+      },
+      "image": "armor/seva_suit.png"
+    },
+    {
+      "name": "SEVA-D Suit",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 1,
+      "lead_containers_total": 1,
+      "resistances": {
+        "thermal": 21,
+        "electrical": 28,
+        "chemical": 27,
+        "radiation": 50,
+        "psi" : 30,
+        "physical": 50
+      },
+      "image": "armor/seva_d_suit.png"
+    },
+    {
+      "name": "SEVA-I Suit",
+      "slots_base": 4,
+      "slots_upgrades": 1,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 23,
+        "electrical": 29,
+        "chemical": 29,
+        "radiation": 60,
+        "psi" : 40,
+        "physical": 50
+      },
+      "image": "armor/seva_i_suit.png"
+    },
+    {
+      "name": "SEVA-V Suit",
+      "slots_base": 4,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 20,
+        "electrical": 26,
+        "chemical": 29,
+        "radiation": 70,
+        "psi" : 20,
+        "physical": 40
+      },
+      "image": "armor/seva_v_suit.png"
+    },
+    {
+      "name": "Shield of Duty Exosuit",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 25,
+        "electrical": 22,
+        "chemical": 23,
+        "radiation": 60,
+        "psi" : 20,
+        "physical": 75
+      },
+      "image": "armor/sod_exosuit.png"
+    },
+    {
       "name": "SSP-100 Discovery",
       "slots_base": 3,
       "slots_upgrades": 2,
@@ -522,6 +630,168 @@
         "physical": 40
       },
       "image": "armor/ssp100_discovery.png"
+    },
+    {
+      "name": "SSP-100I Survey",
+      "slots_base": 4,
+      "slots_upgrades": 1,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 3,
+      "lead_containers_total": 3,
+      "resistances": {
+        "thermal": 46,
+        "electrical": 46,
+        "chemical": 46,
+        "radiation": 50,
+        "psi" : 20,
+        "physical": 60
+      },
+      "image": "armor/ssp100i_survey.png"
+    },
+    {
+      "name": "SSP-100M SIRCAA",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 97,
+        "electrical": 82,
+        "chemical": 57,
+        "radiation": 60,
+        "psi" : 55,
+        "physical": 40
+      },
+      "image": "armor/ssp100m_sircaa.png"
+    },
+    {
+      "name": "SSP-99 Ecologist",
+      "slots_base": 2,
+      "slots_upgrades": 3,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 1,
+      "lead_containers_total": 1,
+      "resistances": {
+        "thermal": 23,
+        "electrical": 30,
+        "chemical": 36,
+        "radiation": 60,
+        "psi" : 25,
+        "physical": 20
+      },
+      "image": "armor/ssp99_ecologist.png"
+    },
+    {
+      "name": "Sunrise Suit",
+      "slots_base": 2,
+      "slots_upgrades": 2,
+      "slots_total": 4,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 1,
+      "lead_containers_total": 1,
+      "resistances": {
+        "thermal": 13,
+        "electrical": 11,
+        "chemical": 13,
+        "radiation": 30,
+        "psi" : 0,
+        "physical": 40
+      },
+      "image": "armor/sunrise_suit.png"
+    },
+    {
+      "name": "Tourist Suit",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 1,
+      "lead_containers_total": 1,
+      "resistances": {
+        "thermal": 13,
+        "electrical": 11,
+        "chemical": 13,
+        "radiation": 30,
+        "psi" : 0,
+        "physical": 40
+      },
+      "image": "armor/sunrise_suit.png"
+    },
+    {
+      "name": "Wanderer Suit",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 23,
+        "electrical": 33,
+        "chemical": 33,
+        "radiation": 60,
+        "psi" : 50,
+        "physical": 40
+      },
+      "image": "armor/wanderer_suit.png"
+    },
+    {
+      "name": "Wind of Freedom Suit",
+      "slots_base": 2,
+      "slots_upgrades": 1,
+      "slots_total": 3,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 1,
+      "lead_containers_total": 1,
+      "resistances": {
+        "thermal": 11,
+        "electrical": 11,
+        "chemical": 11,
+        "radiation": 20,
+        "psi" : 0,
+        "physical": 22
+      },
+      "image": "armor/wof_suit.png"
+    },
+    {
+      "name": "X7 Suit",
+      "slots_base": 2,
+      "slots_upgrades": 3,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 1,
+      "lead_containers_total": 1,
+      "resistances": {
+        "thermal": 45,
+        "electrical": 45,
+        "chemical": 45,
+        "radiation": 80,
+        "psi" : 0,
+        "physical": 80
+      },
+      "image": "armor/x7_suit.png"
+    },
+    {
+      "name": "Zircon Suit",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 11,
+        "electrical": 13,
+        "chemical": 13,
+        "radiation": 40,
+        "psi" : 0,
+        "physical": 48
+      },
+      "image": "armor/zircon_suit.png"
     }
   ]
 }
