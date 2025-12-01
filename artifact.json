@@ -192,9 +192,212 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Meidum"
+        "radiation_protection": "Medium"
       },
       "image": "artifacts/urchin.png"
+    },
+    {
+      "name": "Battery",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in electrical anomalies.",
+      "stats": {
+        "endurance": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/battery.png"
+    },
+    {
+      "name": "Chocolate Bar",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/chocolate_bar.png"
+    },
+    {
+      "name": "Crest",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Strong",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/crest.png"
+    },
+    {
+      "name": "Flash",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/flash.png"
+    },
+    {
+      "name": "Glare",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Strong",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/glare.png"
+    },
+    {
+      "name": "Harp",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Weak",
+        "bleeding_resistance": "Weak",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/harp.png"
+    },
+    {
+      "name": "Lantern",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Medium",
+        "radiation_protection": "Medium"
+      },
+      "image": "artifacts/lantern.png"
+    },
+    {
+      "name": "Moonlight",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Medium",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/moonlight.png"
+    },
+    {
+      "name": "Rat King",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Weak",
+        "bleeding_resistance": "Weak",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/rat_king.png"
+    },
+    {
+      "name": "Sapphire",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in electrical anomalies.",
+      "stats": {
+        "endurance": "Weak",
+        "bleeding_resistance": "Weak",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/sapphire.png"
+    },
+    {
+      "name": "Shell",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in electrical anomalies.",
+      "stats": {
+        "endurance": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/shell.png"
+    },
+    {
+      "name": "Moonlight",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Medium",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/battery.png"
+    },
+    {
+      "name": "Shop Class",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in electrical anomalies.",
+      "stats": {
+        "endurance": "Weak",
+        "bleeding_resistance": "Weak",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/shop_class.png"
+    },
+    {
+      "name": "Snowflake",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in electrical anomalies.",
+      "stats": {
+        "endurance": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/snowflake.png"
+    },
+    {
+      "name": "Soul",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in electrical anomalies.",
+      "stats": {
+        "endurance": "Medium",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/soul.png"
+    },
+    {
+      "name": "Sparkler",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in electrical anomalies.",
+      "stats": {
+        "electrical_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/sparkler.png"
+    },
+    {
+      "name": "Starfish",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in electrical anomalies.",
+      "stats": {
+        "endurance": "Medium",
+        "bleeding_resistance": "Medium",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/starfish.png"
+    },
+    {
+      "name": "Thunderberry",
+      "classification": "Electrical Anomaly Artifact",
+      "rarity": "Legendary",
+      "description": "A legendary artifact found in electrical anomalies.",
+      "stats": {
+        "endurance": "Maximum",
+        "radiation": "Maximum"
+      },
+      "image": "artifacts/thunderberry.png"
     }
   ]
 }
