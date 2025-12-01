@@ -290,6 +290,222 @@
       "image": "armor/operator_exoskeleton.png"
     },
     {
+      "name": "OZK Explorer's Suit",
+      "slots_base": 2,
+      "slots_upgrades": 2,
+      "slots_total": 4,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 10,
+        "electrical": 13,
+        "chemical": 16,
+        "radiation": 10,
+        "psi" : 0,
+        "physical": 30
+      },
+      "image": "armor/ozk_explorers_suit.png"
+    },
+    {
+      "name": "PSZ-12V Bulat",
+      "slots_base": 4,
+      "slots_upgrades": 1,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 20,
+        "electrical": 14,
+        "chemical": 16,
+        "radiation": 50,
+        "psi" : 0,
+        "physical": 65
+      },
+      "image": "armor/psz_12v_bulat.png"
+    },
+    {
+      "name": "PSZ-20W Convoy",
+      "slots_base": 2,
+      "slots_upgrades": 1,
+      "slots_total": 3,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 12,
+        "electrical": 14,
+        "chemical": 14,
+        "radiation": 40,
+        "psi" : 0,
+        "physical": 50
+      },
+      "image": "armor/psz_20w_convoy.png"
+    },
+    {
+      "name": "PSZ-21W Shturm",
+      "slots_base": 4,
+      "slots_upgrades": 1,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 4,
+      "lead_containers_total": 4,
+      "resistances": {
+        "thermal": 23,
+        "electrical": 33,
+        "chemical": 33,
+        "radiation": 60,
+        "psi" : 50,
+        "physical": 95
+      },
+      "image": "armor/psz_21w_shturm.png"
+    },
+    {
+      "name": "PSZ-5D Universal Protection",
+      "slots_base": 3,
+      "slots_upgrades": 1,
+      "slots_total": 4,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 11,
+        "electrical": 13,
+        "chemical": 13,
+        "radiation": 30,
+        "psi" : 0,
+        "physical": 46
+      },
+      "image": "armor/psz_5d_universal.png"
+    },
+    {
+      "name": "PSZ-5I Hawk",
+      "slots_base": 2,
+      "slots_upgrades": 2,
+      "slots_total": 4,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 16,
+        "electrical": 14,
+        "chemical": 16,
+        "radiation": 40,
+        "psi" : 0,
+        "physical": 45
+      },
+      "image": "armor/psz_5i_hawk.png"
+    },
+    {
+      "name": "PSZ-5V Guardian of Freedom Suit",
+      "slots_base": 2,
+      "slots_upgrades": 2,
+      "slots_total": 4,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 16,
+        "electrical": 13,
+        "chemical": 17,
+        "radiation": 40,
+        "psi" : 44,
+        "physical": 20
+      },
+      "image": "armor/psz_5v_guardian.png"
+    },
+    {
+      "name": "PSZ-7 Military Body Armor",
+      "slots_base": 2,
+      "slots_upgrades": 1,
+      "slots_total": 3,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 7,
+        "electrical": 9,
+        "chemical": 11,
+        "radiation": 30,
+        "psi" : 0,
+        "physical": 42
+      },
+      "image": "armor/psz_7_military.png"
+    },
+    {
+      "name": "PSZ-9D Duty Armor",
+      "slots_base": 2,
+      "slots_upgrades": 2,
+      "slots_total": 4,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 1,
+      "lead_containers_total": 1,
+      "resistances": {
+        "thermal": 20,
+        "electrical": 14,
+        "chemical": 16,
+        "radiation": 40,
+        "psi" : 0,
+        "physical": 70
+      },
+      "image": "armor/psz_9d_duty.png"
+    },
+    {
+      "name": "PSZ-9I Falcon",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 23,
+        "electrical": 33,
+        "chemical": 33,
+        "radiation": 50,
+        "psi" : 40,
+        "physical": 60
+      },
+      "image": "armor/psz_9i_falcon.png"
+    },
+    {
+      "name": "PSZ-9N Wolfhound",
+      "slots_base": 3,
+      "slots_upgrades": 1,
+      "slots_total": 4,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 20,
+        "electrical": 16,
+        "chemical": 16,
+        "radiation": 40,
+        "psi" : 0,
+        "physical": 60
+      },
+      "image": "armor/psz_9n_wolfhound.png"
+    },
+    {
+      "name": "Recruit Suit",
+      "slots_base": 2,
+      "slots_upgrades": 1,
+      "slots_total": 3,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 9,
+        "electrical": 9,
+        "chemical": 9,
+        "radiation": 20,
+        "psi" : 0,
+        "physical": 24
+      },
+      "image": "armor/recruit_suit.png"
+    },
+    {
       "name": "SSP-100 Discovery",
       "slots_base": 3,
       "slots_upgrades": 2,
