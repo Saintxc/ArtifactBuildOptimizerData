@@ -398,6 +398,197 @@
         "radiation": "Maximum"
       },
       "image": "artifacts/thunderberry.png"
+    },
+    {
+      "name": "Cavity",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in thermal anomalies.",
+      "stats": {
+        "bleeding_resistance": "Weak",
+        "weight": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/cavity.png"
+    },
+    {
+      "name": "Crystal",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/crystal.png"
+    },
+    {
+      "name": "Dead Sponge",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in thermal anomalies.",
+      "stats": {
+        "bleeding_resistance": "Medium",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/dead_sponge.png"
+    },
+    {
+      "name": "Droplets",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/droplets.png"
+    },
+    {
+      "name": "Eye",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Weak"
+      },
+      "image": "artifacts/eye.png"
+    },
+    {
+      "name": "Fireball",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/fireball.png"
+    },
+    {
+      "name": "Flaw",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in thermal anomalies.",
+      "stats": {
+        "bleeding_resistance": "Weak",
+        "weight": "Weak",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/flaw.png"
+    },
+    {
+      "name": "Hypercube",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Legendary",
+      "description": "A legendary artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Maximum",
+        "bleeding_resistance": "Maximum",
+        "radiation": "Maximum"
+      },
+      "image": "artifacts/hypercube.png"
+    },
+    {
+      "name": "Lyre",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in thermal anomalies.",
+      "stats": {
+        "bleeding_resistance": "Weak",
+        "weight": "Weak"
+      },
+      "image": "artifacts/lyre.png"
+    },
+    {
+      "name": "Magma",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Weak",
+        "weight": "Weak",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/magma.png"
+    },
+    {
+      "name": "Mama's Beads",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in thermal anomalies.",
+      "stats": {
+        "bleeding_resistance": "Medium",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/mamas_beads.png"
+    },
+    {
+      "name": "Meat Lighter",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Strong",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/meat_lighter.png"
+    },
+    {
+      "name": "Petal",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in thermal anomalies.",
+      "stats": {
+        "bleeding_resistance": "Strong",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/petal.png"
+    },
+    {
+      "name": "Plasma",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Medium",
+        "radiation_protection": "Medium"
+      },
+      "image": "artifacts/plasma.png"
+    },
+    {
+      "name": "Spinner",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in thermal anomalies.",
+      "stats": {
+        "bleeding_resistance": "Weak",
+        "radiation_protection": "Weak"
+      },
+      "image": "artifacts/spinner.png"
+    },
+    {
+      "name": "Steak",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in thermal anomalies.",
+      "stats": {
+        "bleeding_resistance": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/steak.png"
+    },
+    {
+      "name": "Torch",
+      "classification": "Thermal Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in thermal anomalies.",
+      "stats": {
+        "thermal_protection": "Medium",
+        "weight": "Medium",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/torch.png"
     }
   ]
 }
