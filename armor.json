@@ -2,6 +2,150 @@
   "armor":
   [
     {
+      "name": "Armored Bandit Jacket",
+      "slots_base": 1,
+      "slots_upgrades": 1,
+      "slots_total": 2,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 11,
+        "electrical": 10,
+        "chemical": 11,
+        "radiation": 20,
+        "psi" : 0,
+        "physical": 20
+      },
+      "image": "armor/armored_bandit_jacket.png"
+    },
+    {
+      "name": "Bandit Jacket",
+      "slots_base": 1,
+      "slots_upgrades": 1,
+      "slots_total": 2,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 7,
+        "electrical": 7,
+        "chemical": 7,
+        "radiation": 0,
+        "psi" : 0,
+        "physical": 20
+      },
+      "image": "armor/bandit_jacket.png"
+    },
+    {
+      "name": "Berill-5M Armored Suit",
+      "slots_base": 2,
+      "slots_upgrades": 2,
+      "slots_total": 4,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 11,
+        "electrical": 14,
+        "chemical": 14,
+        "radiation": 40,
+        "psi" : 0,
+        "physical": 60
+      },
+      "image": "armor/berill_5m.png"
+    },
+    {
+      "name": "Brummbar Exoskeleton",
+      "slots_base": 4,
+      "slots_upgrades": 1,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 4,
+      "lead_containers_total": 4,
+      "resistances": {
+        "thermal": 31,
+        "electrical": 31,
+        "chemical": 35,
+        "radiation": 60,
+        "psi" : 20,
+        "physical": 80
+      },
+      "image": "armor/brummbar_exoskeleton.png"
+    },
+    {
+      "name": "Bulwark Exosuit",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 29,
+        "electrical": 36,
+        "chemical": 29,
+        "radiation": 70,
+        "psi" : 40,
+        "physical": 70
+      },
+      "image": "armor/bulwark_exosuit.png"
+    },
+    {
+      "name": "Corundum Suit",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 20,
+        "electrical": 18,
+        "chemical": 16,
+        "radiation": 50,
+        "psi" : 20,
+        "physical": 70
+      },
+      "image": "armor/corundum_suit.png"
+    },
+    {
+      "name": "Cuirass Exoskeleton",
+      "slots_base": 3,
+      "slots_upgrades": 2,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 2,
+      "lead_containers_total": 2,
+      "resistances": {
+        "thermal": 33,
+        "electrical": 33,
+        "chemical": 36,
+        "radiation": 60,
+        "psi" : 20,
+        "physical": 70
+      },
+      "image": "armor/cuirass_exoskeleton.png"
+    },
+    {
+      "name": "Debut Suit",
+      "slots_base": 1,
+      "slots_upgrades": 1,
+      "slots_total": 2,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 8,
+        "electrical": 7,
+        "chemical": 9,
+        "radiation": 10,
+        "psi" : 0,
+        "physical": 20
+      },
+      "image": "armor/debut_suit.png"
+    },
+    {
       "name": "Diamond Exoskeleton",
       "slots_base": 5,
       "slots_upgrades": 0,
@@ -18,6 +162,132 @@
         "physical": 80
       },
       "image": "armor/diamond_exoskeleton.png"
+    },
+    {
+      "name": "Exoskeleton",
+      "slots_base": 4,
+      "slots_upgrades": 1,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 4,
+      "lead_containers_total": 4,
+      "resistances": {
+        "thermal": 23,
+        "electrical": 33,
+        "chemical": 33,
+        "radiation": 60,
+        "psi" : 50,
+        "physical": 65
+      },
+      "image": "armor/exoskeleton.png"
+    },
+    {
+      "name": "Leather Jacket",
+      "slots_base": 1,
+      "slots_upgrades": 1,
+      "slots_total": 2,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 7,
+        "electrical": 7,
+        "chemical": 7,
+        "radiation": 10,
+        "psi" : 0,
+        "physical": 15
+      },
+      "image": "armor/leather_jacket.png"
+    },
+    {
+      "name": "Liberty Exoskeleton",
+      "slots_base": 5,
+      "slots_upgrades": 0,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 4,
+      "lead_containers_total": 4,
+      "resistances": {
+        "thermal": 36,
+        "electrical": 36,
+        "chemical": 33,
+        "radiation": 80,
+        "psi" : 40,
+        "physical": 80
+      },
+      "image": "armor/liberty_exoskeleton.png"
+    },
+    {
+      "name": "Marauder Suit",
+      "slots_base": 1,
+      "slots_upgrades": 1,
+      "slots_total": 2,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 1,
+      "lead_containers_total": 1,
+      "resistances": {
+        "thermal": 9,
+        "electrical": 8,
+        "chemical": 11,
+        "radiation": 30,
+        "psi" : 0,
+        "physical": 38
+      },
+      "image": "armor/marauder_suit.png"
+    },
+    {
+      "name": "Mercenary Suit",
+      "slots_base": 1,
+      "slots_upgrades": 2,
+      "slots_total": 3,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 8,
+        "electrical": 10,
+        "chemical": 10,
+        "radiation": 30,
+        "psi" : 0,
+        "physical": 40
+      },
+      "image": "armor/mercenary_suit.png"
+    },
+    {
+      "name": "Mercenary Light Suit",
+      "slots_base": 1,
+      "slots_upgrades": 2,
+      "slots_total": 3,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 0,
+      "lead_containers_total": 0,
+      "resistances": {
+        "thermal": 8,
+        "electrical": 10,
+        "chemical": 10,
+        "radiation": 30,
+        "psi" : 0,
+        "physical": 40
+      },
+      "image": "armor/mercenary_light_suit.png"
+    },
+    {
+      "name": "Operator Exoskeleton",
+      "slots_base": 4,
+      "slots_upgrades": 1,
+      "slots_total": 5,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 4,
+      "lead_containers_total": 4,
+      "resistances": {
+        "thermal": 34,
+        "electrical": 34,
+        "chemical": 35,
+        "radiation": 70,
+        "psi" : 30,
+        "physical": 80
+      },
+      "image": "armor/operator_exoskeleton.png"
     },
     {
       "name": "SSP-100 Discovery",
