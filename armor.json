@@ -4,6 +4,8 @@
     {
       "name": "Diamond Exoskeleton",
       "slots_base": 5,
+      "slots_upgrades": 0,
+      "slots_total": 5,
       "lead_containers_base": 0,
       "lead_containers_upgrades": 4,
       "lead_containers_total": 4,
