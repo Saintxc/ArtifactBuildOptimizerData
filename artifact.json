@@ -589,6 +589,197 @@
         "radiation": "Strong"
       },
       "image": "artifacts/torch.png"
+    },
+    {
+      "name": "Broken Rock",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Medium",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/broken_rock.png"
+    },
+    {
+      "name": "Compass",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Legendary",
+      "description": "A legendary artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Maximum",
+        "radiation": "Maximum"
+      },
+      "image": "artifacts/compass.png"
+    },
+    {
+      "name": "Crown",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Medium",
+        "endurance": "Medium",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/crown.png"
+    },
+    {
+      "name": "Flower Bud",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Weak",
+        "endurance": "Weak",
+        "radiation": "Medium"
+      },
+      "image": "artifacts/flower_bud.png"
+    },
+    {
+      "name": "Flytrap",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in gravitational anomalies.",
+      "stats": {
+        "weight": "Medium",
+        "radiation_protection": "Medium"
+      },
+      "image": "artifacts/flytrap.png"
+    },
+    {
+      "name": "Goldfish",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in gravitational anomalies.",
+      "stats": {
+        "weight": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/goldfish.png"
+    },
+    {
+      "name": "Gravi",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in gravitational anomalies.",
+      "stats": {
+        "weight": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/gravi.png"
+    },
+    {
+      "name": "Jellyfish",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/jellyfish.png"
+    },
+    {
+      "name": "Magic Cube",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Strong",
+        "radiation": "Maximum"
+      },
+      "image": "artifacts/magic_cube.png"
+    },
+    {
+      "name": "Night Star",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Rare",
+      "description": "A rare artifact found in gravitational anomalies.",
+      "stats": {
+        "weight": "Strong",
+        "radiation": "Strong"
+      },
+      "image": "artifacts/night_star.png"
+    },
+    {
+      "name": "Pebble",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Weak",
+        "endurance": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/pebble.png"
+    },
+    {
+      "name": "Rosin",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in gravitational anomalies.",
+      "stats": {
+        "endurance": "Weak",
+        "weight": "Weak"
+      },
+      "image": "artifacts/rosin.png"
+    },
+    {
+      "name": "Spring",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Uncommon",
+      "description": "An uncommon artifact found in gravitational anomalies.",
+      "stats": {
+        "weight": "Medium",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/spring.png"
+    },
+    {
+      "name": "Stone Blood",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in gravitational anomalies.",
+      "stats": {
+        "weight": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/stone_blood.png"
+    },
+    {
+      "name": "Stone Heart",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in gravitational anomalies.",
+      "stats": {
+        "weight": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/stone_heart.png"
+    },
+    {
+      "name": "Whirlwind",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Weak",
+        "endurance": "Weak",
+        "radiation_protection": "Weak"
+      },
+      "image": "artifacts/whirlwind.png"
+    },
+    {
+      "name": "Wrenched",
+      "classification": "Gravitational Anomaly Artifact",
+      "rarity": "Common",
+      "description": "A common artifact found in gravitational anomalies.",
+      "stats": {
+        "physical_protection": "Weak",
+        "radiation": "Weak"
+      },
+      "image": "artifacts/wretched.png"
     }
   ]
 }
