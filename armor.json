@@ -5,8 +5,8 @@
       "name": "Diamond Exoskeleton",
       "slots_base": 5,
       "lead_containers_base": 0,
-      "lead_container_upgrades": 4,
-      "lead_container_total": 4,
+      "lead_containers_upgrades": 4,
+      "lead_containers_total": 4,
       "resistances": {
         "thermal": 39,
         "electrical": 39,
@@ -22,9 +22,9 @@
       "slots_base": 3,
       "slots_upgrades": 2,
       "slots_total": 5,
-      "lead_container_base": 0,
-      "lead_container_upgrades": 3,
-      "lead_container_total": 3,
+      "lead_containers_base": 0,
+      "lead_containers_upgrades": 3,
+      "lead_containers_total": 3,
       "resistances": {
         "thermal": 42,
         "electrical": 42,
