@@ -7,7 +7,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Medium"
+        "radio_protection": 3
       },
       "image": "artifacts/bubble.png"
     },
@@ -17,9 +17,9 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in chemical anomalies.",
       "stats": {
-        "chemical_protection": "Medium",
-        "radiation": "Medium",
-        "increased_durability": "Medium"
+        "chemical_protection": 3,
+        "radiation": -3,
+        "increased_durability": 3
       },
       "image": "artifacts/ciliate.png"
     },
@@ -29,9 +29,9 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in acid anomalies.",
       "stats": {
-        "chemical_protection": "Weak",
-        "radiation": "Weak",
-        "increased_durability": "Weak"
+        "chemical_protection": 2,
+        "radiation": -2,
+        "increased_durability": 2
       },
       "image": "artifacts/crust.png"
     },
@@ -41,7 +41,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Weak"
+        "radio_protection": 2
       },
       "image": "artifacts/crystal_thorn.png"
     },
@@ -85,7 +85,7 @@
       "rarity": "Legendary",
       "description": "A legendary artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Maximum",
+        "radio_protection": "Maximum",
         "chemical_protection": "Maximum",
         "increased_durability": "Maximum"
       },
@@ -108,7 +108,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Weak"
+        "radio_protection": "Weak"
       },
       "image": "artifacts/mica.png"
     },
@@ -140,7 +140,7 @@
       "rarity": "Rare",
       "description": "A rare artifact found in chemical anomalies.",
       "stats": {
-        "radiation_protection": "Strong"
+        "radio_protection": "Strong"
       },
       "image": "artifacts/skipjack.png"
     },
@@ -150,7 +150,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Weak"
+        "radio_protection": "Weak"
       },
       "image": "artifacts/slime.png"
     },
@@ -160,7 +160,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Weak"
+        "radio_protection": "Weak"
       },
       "image": "artifacts/slug.png"
     },
@@ -170,7 +170,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Weak"
+        "radio_protection": "Weak"
       },
       "image": "artifacts/thorn.png"
     },
@@ -192,7 +192,7 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in acid anomalies.",
       "stats": {
-        "radiation_protection": "Medium"
+        "radio_protection": "Medium"
       },
       "image": "artifacts/urchin.png"
     },
@@ -270,7 +270,7 @@
       "description": "An uncommon artifact found in electrical anomalies.",
       "stats": {
         "electrical_protection": "Medium",
-        "radiation_protection": "Medium"
+        "radio_protection": "Medium"
       },
       "image": "artifacts/lantern.png"
     },
@@ -552,7 +552,7 @@
       "description": "An uncommon artifact found in thermal anomalies.",
       "stats": {
         "thermal_protection": "Medium",
-        "radiation_protection": "Medium"
+        "radio_protection": "Medium"
       },
       "image": "artifacts/plasma.png"
     },
@@ -563,7 +563,7 @@
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
         "bleeding_resistance": "Weak",
-        "radiation_protection": "Weak"
+        "radio_protection": "Weak"
       },
       "image": "artifacts/spinner.png"
     },
@@ -643,7 +643,7 @@
       "description": "An uncommon artifact found in gravitational anomalies.",
       "stats": {
         "weight": "Medium",
-        "radiation_protection": "Medium"
+        "radio_protection": "Medium"
       },
       "image": "artifacts/flytrap.png"
     },
@@ -766,7 +766,7 @@
       "stats": {
         "physical_protection": "Weak",
         "endurance": "Weak",
-        "radiation_protection": "Weak"
+        "radio_protection": "Weak"
       },
       "image": "artifacts/whirlwind.png"
     },
@@ -787,7 +787,7 @@
       "rarity": "Legendary",
       "description": "One of the legendary 'Altered Items'.",
       "stats": {},
-      "special_effect": "Reduces bullet damage when standing still. Each hit increases the weight of the ball by 0.2kg up to a maximum of 5kg.",
+      "special_effect": "While equipped, you recover quicker, especially in combat.",
       "image": "artifacts/weird_ball.png"
     },
     {
@@ -795,12 +795,8 @@
       "classification": "Altered Item Artifact",
       "rarity": "Legendary",
       "description": "One of the legendary 'Altered Items'.",
-      "stats": {
-        "thermal_protection": "Maximum",
-        "electrical_protection": "Maximum",
-        "chemical_protection": "Maximum"
-      },
-      "special_effect": "Only works while charged and has to be recharged during an anomaly to provide protection.",
+      "stats": {},
+      "special_effect": "As long as this bolt is charged and equipped, it reduces damage from anomalies. It takes a lot of anomalous energy to recharge though. Charge during an eruption.",
       "image": "artifacts/weird_bolt.png"
     },
     {
@@ -809,7 +805,7 @@
       "rarity": "Legendary",
       "description": "One of the legendary 'Altered Items'.",
       "stats": {},
-      "special_effect": "If a stalker sleeps with the flower equipped, they are more difficult for enemies and mutants to detect",
+      "special_effect": "If you sleep with this flower equipped, its fragrance will mask your scent, though the effect diminishes over time.",
       "image": "artifacts/weird_flower.png"
     },
     {
@@ -817,10 +813,8 @@
       "classification": "Altered Item Artifact",
       "rarity": "Legendary",
       "description": "One of the legendary 'Altered Items'.",
-      "stats": {
-        "bleeding_resistance": "Maximum"
-      },
-      "special_effect": "Regeneration from healing consumables is substantially slower.",
+      "stats": {},
+      "special_effect": "This unusual nut promotes rapid blood coagulation when worn, but wounds take longer to heal.",
       "image": "artifacts/weird_nut.png"
     },
     {
@@ -829,7 +823,7 @@
       "rarity": "Legendary",
       "description": "One of the legendary 'Altered Items'.",
       "stats": {},
-      "special_effect": "Significantly reduces hunger but all food and drink consumables are poisonous and cause negative status effects drunk, bleeding, and radiation.",
+      "special_effect": "This item helps to allay one's thirst and hunger, but be careful: the Zone's gifts can be unpredictable.",
       "image": "artifacts/weird_pot.png"
     },
     {
@@ -837,11 +831,8 @@
       "classification": "Altered Item Artifact",
       "rarity": "Legendary",
       "description": "One of the legendary 'Altered Items'.",
-      "stats": {
-        "weight_bonus": -40,
-        "radiation_protection": "Weak"
-      },
-      "special_effect": "If the stalker carries over 50kg, the drunk status effect is applied.",
+      "stats": {},
+      "special_effect": "Radiation wont bother you as much. Makes moving around a bit smoother too, although you might feel drunk from time to time.",
       "image": "artifacts/weird_water.png"
     }
   ]
