@@ -18,7 +18,7 @@
       "description": "An uncommon artifact found in chemical anomalies.",
       "stats": {
         "chemical_protection": 3,
-        "radiation": -3,
+        "radiation": 3,
         "increased_durability": 3
       },
       "image": "artifacts/ciliate.png"
@@ -30,7 +30,7 @@
       "description": "An uncommon artifact found in acid anomalies.",
       "stats": {
         "chemical_protection": 2,
-        "radiation": -2,
+        "radiation": 2,
         "increased_durability": 2
       },
       "image": "artifacts/crust.png"
@@ -51,8 +51,9 @@
       "rarity": "Rare",
       "description": "A rare artifact found in acid anomalies.",
       "stats": {
-        "chemical_protection": "Strong",
-        "radiation": "Strong"
+        "chemical_protection": 4,
+        "radiation": 4,
+        "increased_durability": 4
       },
       "image": "artifacts/devils_mushroom.png"
     },
@@ -62,9 +63,9 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "chemical_protection": "Weak",
-        "radiation": "Weak",
-        "increased_durability": "Weak"
+        "chemical_protection": 2,
+        "radiation": 2,
+        "increased_durability": 2
       },
       "image": "artifacts/horn.png"
     },
@@ -74,8 +75,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in chemical anomalies.",
       "stats": {
-        "chemical_protection": "Medium",
-        "radiation": "Medium"
+        "chemical_protection": 3,
+        "radiation": 3
       },
       "image": "artifacts/kolobok.png"
     },
@@ -85,9 +86,9 @@
       "rarity": "Legendary",
       "description": "A legendary artifact found in acid anomalies.",
       "stats": {
-        "radio_protection": "Maximum",
-        "chemical_protection": "Maximum",
-        "increased_durability": "Maximum"
+        "radio_protection": 5,
+        "chemical_protection": 5,
+        "increased_durability": 5
       },
       "image": "artifacts/liquid_rock.png"
     },
@@ -97,8 +98,8 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "chemical_protection": "Weak",
-        "radiation": "Weak"
+        "chemical_protection": 2,
+        "radiation": 2
       },
       "image": "artifacts/meat_chunk.png"
     },
@@ -108,7 +109,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radio_protection": "Weak"
+        "radio_protection": 2
       },
       "image": "artifacts/mica.png"
     },
@@ -118,8 +119,8 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "chemical_protection": "Weak",
-        "radiation": "Weak"
+        "chemical_protection": 2,
+        "radiation": 2
       },
       "image": "artifacts/mold.png"
     },
@@ -129,8 +130,8 @@
       "rarity": "Rare",
       "description": "A rare artifact found in chemical anomalies.",
       "stats": {
-        "chemical_protection": "Strong",
-        "radiation": "Strong"
+        "chemical_protection": 4,
+        "radio_protection": 4
       },
       "image": "artifacts/pellicle.png"
     },
@@ -140,7 +141,7 @@
       "rarity": "Rare",
       "description": "A rare artifact found in chemical anomalies.",
       "stats": {
-        "radio_protection": "Strong"
+        "radio_protection": 4
       },
       "image": "artifacts/skipjack.png"
     },
@@ -150,7 +151,8 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radio_protection": "Weak"
+        "radio_protection": 2,
+        "increased_durability": 2
       },
       "image": "artifacts/slime.png"
     },
@@ -160,7 +162,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radio_protection": "Weak"
+        "radio_protection": 2
       },
       "image": "artifacts/slug.png"
     },
@@ -170,7 +172,7 @@
       "rarity": "Common",
       "description": "A common artifact found in acid anomalies.",
       "stats": {
-        "radio_protection": "Weak"
+        "radio_protection": 2
       },
       "image": "artifacts/thorn.png"
     },
@@ -180,9 +182,9 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in chemical anomalies.",
       "stats": {
-        "chemical_protection": "Medium",
-        "radiation": "Medium",
-        "increased_durability": "Medium"
+        "chemical_protection": 3,
+        "radiation": 3,
+        "increased_durability": 3
       },
       "image": "artifacts/tourists_breakfast.png"
     },
@@ -192,7 +194,7 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in acid anomalies.",
       "stats": {
-        "radio_protection": "Medium"
+        "radio_protection": 3
       },
       "image": "artifacts/urchin.png"
     },
@@ -202,8 +204,8 @@
       "rarity": "Common",
       "description": "A common artifact found in electrical anomalies.",
       "stats": {
-        "endurance": "Weak",
-        "radiation": "Weak"
+        "endurance": 2,
+        "radiation": 2
       },
       "image": "artifacts/battery.png"
     },
@@ -213,8 +215,8 @@
       "rarity": "Common",
       "description": "A common artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Weak",
-        "radiation": "Weak"
+        "electrical_protection": 2,
+        "radiation": 2
       },
       "image": "artifacts/chocolate_bar.png"
     },
@@ -224,8 +226,8 @@
       "rarity": "Rare",
       "description": "A rare artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Strong",
-        "radiation": "Strong"
+        "endurance": 4,
+        "radiation": 4
       },
       "image": "artifacts/crest.png"
     },
@@ -235,8 +237,8 @@
       "rarity": "Common",
       "description": "A common artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Weak",
-        "radiation": "Weak"
+        "electrical_protection": 2,
+        "radiation": 2
       },
       "image": "artifacts/flash.png"
     },
@@ -246,8 +248,8 @@
       "rarity": "Rare",
       "description": "A rare artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Strong",
-        "radiation": "Strong"
+        "electrical_protection": 4,
+        "radiation": 4
       },
       "image": "artifacts/glare.png"
     },
@@ -257,9 +259,9 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Weak",
-        "bleeding_resistance": "Weak",
-        "radiation": "Medium"
+        "electrical_protection": 2,
+        "bleeding_resistance": 2,
+        "radiation": 3
       },
       "image": "artifacts/harp.png"
     },
@@ -269,8 +271,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Medium",
-        "radio_protection": "Medium"
+        "electrical_protection": 3,
+        "radio_protection": 3
       },
       "image": "artifacts/lantern.png"
     },
@@ -280,8 +282,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Medium",
-        "radiation": "Medium"
+        "electrical_protection": 3,
+        "radiation": 3
       },
       "image": "artifacts/moonlight.png"
     },
@@ -291,9 +293,9 @@
       "rarity": "Common",
       "description": "A common artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Weak",
-        "bleeding_resistance": "Weak",
-        "radiation": "Medium"
+        "electrical_protection": 1,
+        "bleeding_resistance": 1,
+        "radio_protection": 2
       },
       "image": "artifacts/rat_king.png"
     },
@@ -303,9 +305,8 @@
       "rarity": "Common",
       "description": "A common artifact found in electrical anomalies.",
       "stats": {
-        "endurance": "Weak",
-        "bleeding_resistance": "Weak",
-        "radiation": "Medium"
+        "endurance": 1,
+        "bleeding_resistance": 1
       },
       "image": "artifacts/sapphire.png"
     },
@@ -315,21 +316,9 @@
       "rarity": "Common",
       "description": "A common artifact found in electrical anomalies.",
       "stats": {
-        "endurance": "Weak",
-        "radiation": "Weak"
+        "endurance": 2
       },
       "image": "artifacts/shell.png"
-    },
-    {
-      "name": "Moonlight",
-      "classification": "Electrical Anomaly Artifact",
-      "rarity": "Uncommon",
-      "description": "An uncommon artifact found in electrical anomalies.",
-      "stats": {
-        "electrical_protection": "Medium",
-        "radiation": "Medium"
-      },
-      "image": "artifacts/battery.png"
     },
     {
       "name": "Shop Class",
@@ -337,9 +326,9 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in electrical anomalies.",
       "stats": {
-        "endurance": "Weak",
-        "bleeding_resistance": "Weak",
-        "radiation": "Medium"
+        "endurance": 2,
+        "bleeding_resistance": 2,
+        "radiation": 3
       },
       "image": "artifacts/shop_class.png"
     },
@@ -349,8 +338,8 @@
       "rarity": "Common",
       "description": "A common artifact found in electrical anomalies.",
       "stats": {
-        "endurance": "Weak",
-        "radiation": "Weak"
+        "endurance": 2,
+        "radiation": 2
       },
       "image": "artifacts/snowflake.png"
     },
@@ -360,8 +349,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in electrical anomalies.",
       "stats": {
-        "endurance": "Medium",
-        "radiation": "Medium"
+        "endurance": 3,
+        "radiation": 3
       },
       "image": "artifacts/soul.png"
     },
@@ -371,8 +360,8 @@
       "rarity": "Common",
       "description": "A common artifact found in electrical anomalies.",
       "stats": {
-        "electrical_protection": "Weak",
-        "radiation": "Weak"
+        "electrical_protection": 2,
+        "radio_protection": 2
       },
       "image": "artifacts/sparkler.png"
     },
@@ -382,9 +371,9 @@
       "rarity": "Rare",
       "description": "A rare artifact found in electrical anomalies.",
       "stats": {
-        "endurance": "Medium",
-        "bleeding_resistance": "Medium",
-        "radiation": "Medium"
+        "endurance": 3,
+        "bleeding_resistance": 3,
+        "radiation": 4
       },
       "image": "artifacts/starfish.png"
     },
@@ -394,8 +383,8 @@
       "rarity": "Legendary",
       "description": "A legendary artifact found in electrical anomalies.",
       "stats": {
-        "endurance": "Maximum",
-        "radiation": "Maximum"
+        "endurance": 5,
+        "radiation": 5
       },
       "image": "artifacts/thunderberry.png"
     },
@@ -405,9 +394,9 @@
       "rarity": "Common",
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
-        "bleeding_resistance": "Weak",
-        "weight": "Weak",
-        "radiation": "Weak"
+        "bleeding_resistance": 1,
+        "weight": 1,
+        "radiation": 2
       },
       "image": "artifacts/cavity.png"
     },
@@ -417,8 +406,8 @@
       "rarity": "Common",
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Weak",
-        "radiation": "Weak"
+        "thermal_protection": 2,
+        "radiation": 2
       },
       "image": "artifacts/crystal.png"
     },
@@ -428,8 +417,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in thermal anomalies.",
       "stats": {
-        "bleeding_resistance": "Medium",
-        "radiation": "Medium"
+        "bleeding_resistance": 3,
+        "radiation": 3
       },
       "image": "artifacts/dead_sponge.png"
     },
@@ -439,8 +428,8 @@
       "rarity": "Common",
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Weak",
-        "radiation": "Weak"
+        "thermal_protection": 2,
+        "radiation": 2
       },
       "image": "artifacts/droplets.png"
     },
@@ -450,7 +439,7 @@
       "rarity": "Common",
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Weak"
+        "thermal_protection": 2
       },
       "image": "artifacts/eye.png"
     },
@@ -460,8 +449,8 @@
       "rarity": "Common",
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Weak",
-        "radiation": "Weak"
+        "thermal_protection": 2,
+        "radio_protection": 2
       },
       "image": "artifacts/fireball.png"
     },
@@ -471,9 +460,9 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in thermal anomalies.",
       "stats": {
-        "bleeding_resistance": "Weak",
-        "weight": "Weak",
-        "radiation": "Medium"
+        "bleeding_resistance": 2,
+        "weight": 2,
+        "radiation": 3
       },
       "image": "artifacts/flaw.png"
     },
@@ -483,9 +472,9 @@
       "rarity": "Legendary",
       "description": "A legendary artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Maximum",
-        "bleeding_resistance": "Maximum",
-        "radiation": "Maximum"
+        "thermal_protection": 5,
+        "bleeding_resistance": 5,
+        "radiation": 5
       },
       "image": "artifacts/hypercube.png"
     },
@@ -495,8 +484,8 @@
       "rarity": "Common",
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
-        "bleeding_resistance": "Weak",
-        "weight": "Weak"
+        "bleeding_resistance": 1,
+        "weight": 1
       },
       "image": "artifacts/lyre.png"
     },
@@ -506,9 +495,9 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Weak",
-        "weight": "Weak",
-        "radiation": "Medium"
+        "thermal_protection": 2,
+        "weight": 2,
+        "radiation": 3
       },
       "image": "artifacts/magma.png"
     },
@@ -518,8 +507,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in thermal anomalies.",
       "stats": {
-        "bleeding_resistance": "Medium",
-        "radiation": "Medium"
+        "bleeding_resistance": 3,
+        "radiation": 3
       },
       "image": "artifacts/mamas_beads.png"
     },
@@ -529,8 +518,8 @@
       "rarity": "Rare",
       "description": "A rare artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Strong",
-        "radiation": "Strong"
+        "thermal_protection": 4,
+        "radiation": 4
       },
       "image": "artifacts/meat_lighter.png"
     },
@@ -540,8 +529,8 @@
       "rarity": "Rare",
       "description": "A rare artifact found in thermal anomalies.",
       "stats": {
-        "bleeding_resistance": "Strong",
-        "radiation": "Strong"
+        "bleeding_resistance": 4,
+        "radiation": 4
       },
       "image": "artifacts/petal.png"
     },
@@ -551,8 +540,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Medium",
-        "radio_protection": "Medium"
+        "thermal_protection": 3,
+        "radio_protection": 3
       },
       "image": "artifacts/plasma.png"
     },
@@ -562,8 +551,8 @@
       "rarity": "Common",
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
-        "bleeding_resistance": "Weak",
-        "radio_protection": "Weak"
+        "bleeding_resistance": 2,
+        "radio_protection": 2
       },
       "image": "artifacts/spinner.png"
     },
@@ -573,8 +562,8 @@
       "rarity": "Common",
       "description": "A common artifact found in thermal anomalies.",
       "stats": {
-        "bleeding_resistance": "Weak",
-        "radiation": "Weak"
+        "bleeding_resistance": 2,
+        "radiation": 2
       },
       "image": "artifacts/steak.png"
     },
@@ -584,9 +573,9 @@
       "rarity": "Rare",
       "description": "A rare artifact found in thermal anomalies.",
       "stats": {
-        "thermal_protection": "Medium",
-        "weight": "Medium",
-        "radiation": "Strong"
+        "thermal_protection": 3,
+        "weight": 3,
+        "radiation": 4
       },
       "image": "artifacts/torch.png"
     },
@@ -596,8 +585,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Medium",
-        "radiation": "Strong"
+        "physical_protection": 3,
+        "radiation": 4
       },
       "image": "artifacts/broken_rock.png"
     },
@@ -607,8 +596,8 @@
       "rarity": "Legendary",
       "description": "A legendary artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Maximum",
-        "radiation": "Maximum"
+        "physical_protection": 5,
+        "radiation": 5
       },
       "image": "artifacts/compass.png"
     },
@@ -618,9 +607,9 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Medium",
-        "endurance": "Medium",
-        "radiation": "Strong"
+        "physical_protection": 2,
+        "endurance": 2,
+        "radiation": 3
       },
       "image": "artifacts/crown.png"
     },
@@ -630,9 +619,9 @@
       "rarity": "Rare",
       "description": "A rare artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Weak",
-        "endurance": "Weak",
-        "radiation": "Medium"
+        "physical_protection": 3,
+        "endurance": 3,
+        "radiation": 4
       },
       "image": "artifacts/flower_bud.png"
     },
@@ -642,8 +631,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in gravitational anomalies.",
       "stats": {
-        "weight": "Medium",
-        "radio_protection": "Medium"
+        "weight": 3,
+        "radio_protection": 3
       },
       "image": "artifacts/flytrap.png"
     },
@@ -653,8 +642,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in gravitational anomalies.",
       "stats": {
-        "weight": "Weak",
-        "radiation": "Weak"
+        "weight": 2,
+        "radiation": 2
       },
       "image": "artifacts/goldfish.png"
     },
@@ -664,8 +653,8 @@
       "rarity": "Common",
       "description": "A common artifact found in gravitational anomalies.",
       "stats": {
-        "weight": "Weak",
-        "radiation": "Weak"
+        "weight": 2,
+        "radio_protection": 2
       },
       "image": "artifacts/gravi.png"
     },
@@ -675,8 +664,8 @@
       "rarity": "Common",
       "description": "A common artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Weak",
-        "radiation": "Weak"
+        "physical_protection": 2,
+        "radiation": 2
       },
       "image": "artifacts/jellyfish.png"
     },
@@ -686,8 +675,8 @@
       "rarity": "Rare",
       "description": "A rare artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Strong",
-        "radiation": "Maximum"
+        "physical_protection": 4,
+        "radiation": 5
       },
       "image": "artifacts/magic_cube.png"
     },
@@ -697,8 +686,8 @@
       "rarity": "Rare",
       "description": "A rare artifact found in gravitational anomalies.",
       "stats": {
-        "weight": "Strong",
-        "radiation": "Strong"
+        "weight": 4,
+        "radiation": 4
       },
       "image": "artifacts/night_star.png"
     },
@@ -708,9 +697,9 @@
       "rarity": "Common",
       "description": "A common artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Weak",
-        "endurance": "Weak",
-        "radiation": "Weak"
+        "physical_protection": 1,
+        "endurance": 1,
+        "radiation": 2
       },
       "image": "artifacts/pebble.png"
     },
@@ -720,8 +709,8 @@
       "rarity": "Common",
       "description": "A common artifact found in gravitational anomalies.",
       "stats": {
-        "endurance": "Weak",
-        "weight": "Weak"
+        "endurance": 1,
+        "weight": 1
       },
       "image": "artifacts/rosin.png"
     },
@@ -731,8 +720,8 @@
       "rarity": "Uncommon",
       "description": "An uncommon artifact found in gravitational anomalies.",
       "stats": {
-        "weight": "Medium",
-        "radiation": "Weak"
+        "weight": 3,
+        "radiation": 3
       },
       "image": "artifacts/spring.png"
     },
@@ -742,8 +731,8 @@
       "rarity": "Common",
       "description": "A common artifact found in gravitational anomalies.",
       "stats": {
-        "weight": "Weak",
-        "radiation": "Weak"
+        "weight": 2,
+        "radiation": 2
       },
       "image": "artifacts/stone_blood.png"
     },
@@ -753,8 +742,8 @@
       "rarity": "Common",
       "description": "A common artifact found in gravitational anomalies.",
       "stats": {
-        "weight": "Weak",
-        "radiation": "Weak"
+        "weight": 2,
+        "radiation": 2
       },
       "image": "artifacts/stone_heart.png"
     },
@@ -764,9 +753,9 @@
       "rarity": "Common",
       "description": "A common artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Weak",
-        "endurance": "Weak",
-        "radio_protection": "Weak"
+        "physical_protection": 1,
+        "endurance": 1,
+        "radio_protection": 2
       },
       "image": "artifacts/whirlwind.png"
     },
@@ -776,8 +765,7 @@
       "rarity": "Common",
       "description": "A common artifact found in gravitational anomalies.",
       "stats": {
-        "physical_protection": "Weak",
-        "radiation": "Weak"
+        "physical_protection": 2
       },
       "image": "artifacts/wretched.png"
     },
